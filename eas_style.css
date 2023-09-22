@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container-main {
+    width: 1000px;
+}
+
+.container-row {
+    display: flex;
+}
+
+.box {
+    background-color: lightgray;
+    margin-right: 1px;
+    margin-bottom: 1px;
+}
+.box-draw {
+    background-color: darkgray;
+    margin-right: 1px;
+    margin-bottom: 1px;
+}
